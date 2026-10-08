@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/nYKHW9ZPWjMAAAAd/march-march-7th.gif" width="100%" alt="banner" />
+<img src="https://media1.tenor.com/m/nYKHW9ZPWjMAAAAd/march-march-7th.gif" width="500" alt="banner" />
 
 # Hi, I'm Lyvelia
 
