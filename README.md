@@ -17,7 +17,7 @@ Information Technology student at **Lambung Mangkurat University**
 ### About Me
 
 - Currently studying Information Technology
-- Focused on front-end web development and mobile app development
+- Interested in front-end web development and Android app development
 - Enjoy building clean, responsive, and user-friendly interfaces
 - Gamer in my free time, mostly gacha and Steam games
 
