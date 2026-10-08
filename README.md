@@ -2,7 +2,7 @@
 
 <img src="https://media1.tenor.com/m/nYKHW9ZPWjMAAAAd/march-march-7th.gif" width="100%" alt="banner" />
 
-# Hi, I'm Hafiz
+# Hi, I'm Lyvelia
 
 Information Technology student at **Lambung Mangkurat University**
 
@@ -17,8 +17,9 @@ Information Technology student at **Lambung Mangkurat University**
 ### About Me
 
 - Currently studying Information Technology
-- Interested in software development, web, and mobile apps
-- Always learning something new
+- Focused on front-end web development and mobile app development
+- Enjoy building clean, responsive, and user-friendly interfaces
+- Gamer in my free time, mostly gacha and Steam games
 
 ### Languages
 
