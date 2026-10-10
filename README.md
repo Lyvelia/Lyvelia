@@ -1,10 +1,10 @@
-<div align="center">
+<img width="177" height="90" alt="image" src="https://github.com/user-attachments/assets/210d0686-4f5f-4fa4-a4eb-e7638b718226" /><div align="center">
 
 <img src="https://media1.tenor.com/m/nYKHW9ZPWjMAAAAd/march-march-7th.gif" width="500" alt="banner" />
 
 # Hi, I'm Lyvelia
 
-IT student with a passion for front-end web and Android development
+IT student who's passionate about front-end web and Android dev.
 
 </div>
 
@@ -40,9 +40,5 @@ IT student with a passion for front-end web and Android development
 
 ### Contact
 
-<a href="https://discord.com/users/741254878713610240">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-</a>
-<a href="mailto:lyveliaceleste@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<a href="https://discord.com/users/741254878713610240"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+<a href="mailto:lyveliaceleste@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
