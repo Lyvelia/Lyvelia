@@ -1,5 +1,3 @@
-<img width="177" height="90" alt="image" src="https://github.com/user-attachments/assets/210d0686-4f5f-4fa4-a4eb-e7638b718226" /><div align="center">
-
 <img src="https://media1.tenor.com/m/nYKHW9ZPWjMAAAAd/march-march-7th.gif" width="500" alt="banner" />
 
 # Hi, I'm Lyvelia
