@@ -17,7 +17,7 @@ Gamer in my free time, mostly gacha and Steam games.
   <img src="https://skillicons.dev/icons?i=html,css,c,py,cpp,java,kotlin,php&theme=dark" />
 </p>
 
-### Project That I've Made
+### Featured Project
 
 <a href="https://github.com/Lyvelia/AntriIn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lyvelia&repo=AntriIn&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&border_color=30363D" /></a>
 
