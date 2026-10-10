@@ -11,12 +11,6 @@ Gamer in my free time, mostly gacha and Steam games.
 
 ---
 
-### About Me
-
-- Currently studying Information Technology
-- Exploring modern tools and frameworks to build better user experiences
-- Gamer in my free time, mostly gacha and Steam games
-
 ### Languages I'm Familiar With
 
 <p align="left">
